@@ -1,0 +1,30 @@
+{
+  "name": "react-native-encoding-api",
+  "version": "1.0.0",
+  "description": "A React Native package for handling text encoding and decoding",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "encoding",
+    "text-encoding",
+    "utf-8",
+    "base64"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
+} 
