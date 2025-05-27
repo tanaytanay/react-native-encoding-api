@@ -16,7 +16,7 @@
     "utf-8",
     "base64"
   ],
-  "author": "",
+  "author": "tanaytanay",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.60.0"
