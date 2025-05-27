@@ -1,6 +1,6 @@
 {
   "name": "react-native-encoding-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native package for handling text encoding and decoding",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
